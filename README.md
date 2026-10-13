@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Javannio 👋
 
-<!--
-**Javannio/Javannio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile repository.
 
-Here are some ideas to get you started:
+## About Me
+- 💻 I enjoy building practical software and learning by creating real projects.
+- 🚀 I’m focused on improving my skills through hands-on development.
+- 🤝 I’m open to collaboration on interesting and impactful ideas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Portfolio Highlights
+Here are a few projects from my portfolio:
+
+- **Project 1** — Brief description of what it does and the value it provides.
+- **Project 2** — Brief description of the problem solved and technologies used.
+- **Project 3** — Brief description of the outcome or feature set.
+
+> Replace the items above with your real repositories and descriptions.
+
+## Tech Stack
+- Languages: `JavaScript`, `TypeScript`, `Python`
+- Tools: `Git`, `GitHub`, `VS Code`
+
+## Contact
+- GitHub: [@Javannio](https://github.com/Javannio)
+- LinkedIn: Add your LinkedIn URL here
+- Email: Add your email here
